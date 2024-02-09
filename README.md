@@ -35,8 +35,8 @@ To get started with VANORA FILE TRANSFER, follow these steps:
 
 ## Contributors
 
-- [Arya Sharma](https://github.com/arya24x7)
-- [Add more contributors here if applicable]
+- [Prajwal P](https://github.com/arya24x7)
+- [Neha V](https://github.com/nehaa17v)
 
 ## License
 
